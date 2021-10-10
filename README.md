@@ -19,6 +19,30 @@
   
  ## GIF del funcionamiento
  ![GIF](https://github.com/EduardoEB3/InterfacesInteligentes_P1/blob/main/GIF/Funcionamiento.gif)
+ 
+ ## Estructura de directorios
+ El directorio está organizado de la siguiente manera:
+  
+      .
+      ├── GIF
+          ├── Funcionamiento.gif
+      ├── scripts
+          ├── ScriptCamara.cs
+          ├── ScriptCasa.cs
+          ├── ScriptCoche.cs
+          ├── ScriptEscalera.cs
+          ├── ScriptFPS.cs
+          ├── ScriptLuzDirec.cs
+          ├── ScriptLuzSpot.cs
+          ├── ScriptPalmera.cs
+          ├── ScriptParking.cs
+          ├── ScriptPipote1.cs
+          ├── ScriptPipote2.cs
+          ├── ScriptPipote3.cs
+          ├── ScriptPipote4.cs
+          ├── ScriptPipote5.cs
+          ├── ScriptTerreno.cs
+          
 
 **Realizado por:** *Eduardo Expósito Barrera*
 
